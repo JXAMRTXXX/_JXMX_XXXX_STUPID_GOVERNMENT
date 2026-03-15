@@ -1,3 +1,3 @@
-from stegano import lsb
-revealed = lsb.reveal("XXXXX")
+from stegXXX import lsb
+revealed = ("XXXXX")
 print(revealed)
